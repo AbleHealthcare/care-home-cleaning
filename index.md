@@ -1,6 +1,6 @@
 # Welcome to Able Healthcare's Knowledge Hub
 
-- [Eco-friendly cleaning](./eco-friendly-cleaners-guide.md)
+- [Eco-friendly cleaning](./cleaning/eco-friendly-cleaners-guide.md)
 
 Explore resources on care home compliance, safety, and sustainability.
 
