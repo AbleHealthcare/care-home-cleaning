@@ -45,8 +45,7 @@
     <section class="card">
       <h2>Popular resources</h2>
       <ul class="list">
-        <li><a href="https://welcometoable.co.uk/cleaning/eco-friendly-cleaners/" target="_blank" rel="noopener">Eco-Friendly Cleaning Products</a></li>
-        <li><a href="https://welcometoable.co.uk/training/coshh/" target="_blank" rel="noopener">COSHH Training & Compliance</a></li>
+        <li><a href="https://welcometoable.co.uk/resources/eco-friendly-disinfectants/" target="_blank" rel="noopener">Eco-Friendly Cleaning Products</a></li>
         <li><a href="https://welcometoable.co.uk/equipment-and-servicing/equipment-servicing-and-loler-testing/" target="_blank" rel="noopener">Equipment Servicing & LOLER Testing</a></li>
         <li><a href="https://welcometoable.co.uk/contact-us/" target="_blank" rel="noopener">Contact Able</a></li>
       </ul>
