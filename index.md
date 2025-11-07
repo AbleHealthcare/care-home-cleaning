@@ -4,6 +4,10 @@
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width,initial-scale=1" />
   <title>Care Home Cleaning Guides | Able</title>
+
+  <!-- Google Search Console verification -->
+  <meta name="google-site-verification" content="u1gpgb48aAdTIIs_52s5SpzGNpAvA_BFEAGR90ABYLc" />
+
   <meta name="description" content="Practical cleaning and hygiene resources for UK care homes — COSHH training, eco-friendly cleaners, and equipment servicing from Able." />
   <link rel="canonical" href="https://ablehealthcare.github.io/care-home-cleaning/" />
   <meta property="og:title" content="Care Home Cleaning Guides | Able" />
@@ -11,6 +15,7 @@
   <meta property="og:type" content="website" />
   <meta property="og:url" content="https://ablehealthcare.github.io/care-home-cleaning/" />
   <style>
+
     :root { --ink:#1b2b30; --muted:#4b646d; --line:#e6eef0; --accent:#0ea36a; }
     *{box-sizing:border-box}
     body{margin:0;font-family:system-ui,-apple-system,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;color:var(--ink);line-height:1.6}
