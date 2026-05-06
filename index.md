@@ -78,7 +78,7 @@ footer {
 <h1>Care Home Cleaning: Practical Reference Guide</h1>
 
 <p class="lede">
-This page provides a neutral reference overview of cleaning principles commonly applied in UK care home environments, with a focus on safety, consistency, and risk reduction.
+This page provides a neutral reference overview of cleaning principles commonly applied in UK care home environments, with a focus on safety, consistency, infection control, and operational clarity.
 </p>
 
 <div class="card">
@@ -88,6 +88,7 @@ This page provides a neutral reference overview of cleaning principles commonly 
 <li>Risk-based priorities for high-contact areas</li>
 <li>Basic compliance awareness (including COSHH)</li>
 <li>Operational clarity, documentation, and audit readiness</li>
+<li>General food hygiene considerations within care settings</li>
 </ul>
 <p class="note">
 This is an overview intended for reference. Care providers should follow site-specific risk assessments and relevant guidance.
@@ -132,10 +133,25 @@ greater attention than low-use areas. A risk-based approach helps allocate time 
 
 <ul>
 <li>Bathrooms and toilets</li>
-<li>Dining and food service areas</li>
+<li>Dining and food preparation areas</li>
 <li>Handrails, door handles, switches, and shared touchpoints</li>
 <li>Communal areas with higher footfall</li>
 </ul>
+
+<p>
+Kitchen hygiene is particularly important within care environments because food preparation areas combine infection-control,
+cross-contamination, and resident safety risks in one operational space. Consistent routines, temperature management,
+surface cleaning, and safe food handling all contribute to stronger hygiene outcomes.
+</p>
+
+<p>
+For a practical overview of food safety routines, cleaning standards, and audit-focused kitchen procedures in care homes,
+see:
+<br><br>
+<a href="https://welcometoable.co.uk/resources/care-home-kitchen-hygiene/" target="_blank" rel="noopener noreferrer">
+https://welcometoable.co.uk/resources/care-home-kitchen-hygiene/
+</a>
+</p>
 
 <h2>3) Consistency over intensity</h2>
 
@@ -149,6 +165,11 @@ documented processes reduce missed tasks and support day-to-day inspection readi
 <li>Record completion where appropriate</li>
 <li>Identify and address deviations promptly</li>
 </ul>
+
+<p>
+Consistency also supports safer food hygiene standards in kitchens and dining areas, where overlooked cleaning tasks,
+poor surface management, or weak hand hygiene practices can increase contamination risks quickly.
+</p>
 
 <h2>4) Product use within defined systems</h2>
 
@@ -164,6 +185,11 @@ products to tasks and surfaces, following label guidance, and ensuring staff und
 <li>Provide basic safety guidance for staff</li>
 </ul>
 
+<p>
+In food preparation environments, staff should also understand the importance of using separate equipment, maintaining
+surface hygiene, and preventing cross-contamination between raw and ready-to-eat foods.
+</p>
+
 <h2>5) Compliance and COSHH awareness</h2>
 
 <p>
@@ -172,11 +198,16 @@ refer to the UK Health and Safety Executive resources:
 <a href="https://www.hse.gov.uk/coshh/" target="_blank" rel="noopener noreferrer">UK HSE COSHH pages</a>.
 </p>
 
+<p>
+Good documentation, cleaning records, and audit preparation processes can also help care homes demonstrate stronger
+oversight of both hygiene and food safety routines during inspections.
+</p>
+
 <h2>Further reading</h2>
 
 <p>
-For a broader operational overview that brings together cleaning routines, responsibilities, and documentation in care
-environments, see:
+For a broader operational overview that brings together cleaning routines, responsibilities, documentation, and hygiene
+systems in care environments, see:
 <a href="https://welcometoable.co.uk/resources/managing-cleaning-operations-care-homes/" target="_blank" rel="noopener noreferrer">
 guidance on managing cleaning operations in care homes
 </a>.
