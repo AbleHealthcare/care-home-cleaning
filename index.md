@@ -78,7 +78,7 @@ footer {
 <h1>Care Home Cleaning: Practical Reference Guide</h1>
 
 <p class="lede">
-This page provides a neutral reference overview of cleaning principles commonly applied in UK care home environments, with a focus on safety, consistency, infection control, and operational clarity.
+This page provides a neutral reference overview of cleaning principles commonly applied in UK care home environments, with a focus on safety, consistency, infection control, deep cleaning, and operational clarity.
 </p>
 
 <div class="card">
@@ -86,6 +86,7 @@ This page provides a neutral reference overview of cleaning principles commonly 
 <ul>
 <li>Foundational cleaning principles and routine consistency</li>
 <li>Risk-based priorities for high-contact areas</li>
+<li>Deep cleaning as part of wider hygiene control</li>
 <li>Basic compliance awareness (including COSHH)</li>
 <li>Operational clarity, documentation, and audit readiness</li>
 <li>General food hygiene considerations within care settings</li>
@@ -171,7 +172,30 @@ Consistency also supports safer food hygiene standards in kitchens and dining ar
 poor surface management, or weak hand hygiene practices can increase contamination risks quickly.
 </p>
 
-<h2>4) Product use within defined systems</h2>
+<h2>4) Deep cleaning within care home hygiene systems</h2>
+
+<p>
+Routine cleaning is essential, but some areas require more intensive attention over time. Deep cleaning helps address
+hidden build-up, difficult-to-reach areas, accumulated residue, and contamination risks that daily or weekly cleaning may
+not fully resolve.
+</p>
+
+<p>
+A structured deep-cleaning programme may include detailed bathroom cleaning, high-touch disinfection, floor care,
+furniture movement where safe, cleaning behind fixtures, and attention to areas such as vents, skirting boards, storage
+spaces, and equipment bases.
+</p>
+
+<p>
+For a practical overview of what a care home deep clean includes, how it supports infection control, and where it fits
+within wider cleaning routines, see:
+<br><br>
+<a href="https://welcometoable.co.uk/resources/care-home-deep-cleaning/" target="_blank" rel="noopener noreferrer">
+https://welcometoable.co.uk/resources/care-home-deep-cleaning/
+</a>
+</p>
+
+<h2>5) Product use within defined systems</h2>
 
 <p>
 Products support cleaning processes, but they should not define them. Safe and effective use typically depends on matching
@@ -190,7 +214,7 @@ In food preparation environments, staff should also understand the importance of
 surface hygiene, and preventing cross-contamination between raw and ready-to-eat foods.
 </p>
 
-<h2>5) Compliance and COSHH awareness</h2>
+<h2>6) Compliance and COSHH awareness</h2>
 
 <p>
 Cleaning and chemical handling in care environments often intersects with COSHH responsibilities. For official guidance,
