@@ -201,6 +201,17 @@ https://welcometoable.co.uk/resources/care-home-deep-cleaning/
 Products support cleaning processes, but they should not define them. Safe and effective use typically depends on matching
 products to tasks and surfaces, following label guidance, and ensuring staff understand the basics of safe handling.
 </p>
+<p>
+Floor cleaning is a common example of where product selection matters. While all-purpose cleaners can be suitable for some routine mopping tasks, they may not always provide the same finish, surface protection, or specialist performance as dedicated floor-cleaning products.
+</p>
+
+<p>
+For a practical explanation of when an all-purpose cleaner is appropriate for floors and when a specialist option may be better, see:
+<br><br>
+<a href="https://welcometoable.co.uk/resources/all-purpose-cleaner-for-mopping/" target="_blank" rel="noopener noreferrer">
+all-purpose cleaner for mopping guidance
+</a>
+</p>
 
 <ul>
 <li>Match products to specific tasks and surfaces</li>
